@@ -55,7 +55,7 @@
 > “Code. Optimize. Repeat.”
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Compete.+Win.;1100%2B+Problems+Solved.;Always+Learning+New+Things." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=500&lines=Code.+Compete.+Win.;1200%2B+Problems+Solved.;Always+Learning+New+Things." alt="Typing SVG" />
 </p>
 
 ---
